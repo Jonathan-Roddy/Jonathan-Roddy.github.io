@@ -48,57 +48,46 @@ career-profile:
         Attention to detail and have an approachable, cheerful and enthusiastic attitude.
         Great  communicator who enjoys helping customers who require assistance, as I believe that  the customer is the most important aspect to a healthy company.
         Always communicate in a courteous and polite manner even when handling conflict resolution.
+        |
+        Skills Profile
+        Highly proficient in use of Microsoft Word, Excel, PowerPoint, Adobe Photoshop, AutoCAD.
+        Create and maintain public or private computer networks and websites
+        Point of Sales (tills) from Smartphone Technician, Pair M obile Ltd, TechCare Computer Shop Repairs, The Lobster Bar and Skellig Star Hotel
+        Tutored other students in basic Java in Limerick College of Further Education
+
 
 education:
     - degree: Bachalours in Software Development (Ongoing)
       university: Limerick institude of Technolody
       time: 2016 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
     - degree: Computer and Network Maintenance/Advanced Network's and System Software
       university: Limerick College of Further Education
       time: 2014 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
     - degree: Leaving Certificate
       university: Colaiste Na Sceilge
       time: 2008 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
 experiences:
     - role: Kerry ICT Intern
       time: March 2020 - August 2020 
       company: Kerry Group, Naas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I was an Intern for Kerry Group where I worked alongside Web Operations and Collaboration Team.
+        I learned alot about being a business analytis as well as a website develeoper.
+          - SCRUM lifesyle 
+          - Communicating with brand managers via emails and Teams meetings 
+          - Implemenention of a CI/CD pipeline: GitHub, Azure Devops & Azure Cloud 
+          - Created an SEO gap analysis audit framework 
+          - Website plugin filtration cleanse  
+          - Organising and schedualing websites to be scanned and remediated 
+          - Going out to market to find an agency that can preform remediations if needed
+          - Several remote meetings using MS Teams
+          - Kerry intranet, Quick links 
+          - Moderated remote testing of a UI Implemenation 
+          - Documenting the different user level access for future DevOps projects
+                    
     - role: Night Porter
       time: May - August 2019
       company: Skellig Star Hotel, Caherciveen
@@ -121,46 +110,70 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Cannon-Attack
+        link: "https://github.com/Jonathan-Roddy/Trie-Tree"
+        tagline: "This was for a practical Iutilising unit tests, C#"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Airport-Graph
+        link: "https://github.com/Jonathan-Roddy/Airport-Graph"
+        tagline: "Implementationd of an Airport graph for Computer Science, C#"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Trie-Tree
+        link: "https://github.com/Jonathan-Roddy/Trie-Tree"
+        tagline: "Implementationd of an Trie Tree for Computer Science, C++"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AVL-Tree
+        link: "https://github.com/Jonathan-Roddy/AVL-Tree"
+        tagline: "Implementationd of an AVL tree for Computer Science, C++"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Crime-Records
+        link: "https://github.com/Jonathan-Roddy/Crime-Records"
+        tagline: "This is my Assigment 5 for Java, ReadMe included "
+
+      - title: DAP-Group-Project
+        link: "https://github.com/Jonathan-Roddy/DAP-Group-Project"
+        tagline: "This is our third year group project where we had to create an auditing system with a front end GUI with the implementation of an SQL Database, ReadMe included"
+
+      - title: Moylish-Market
+        link: "https://github.com/Jonathan-Roddy/Moylish-Market"
+        tagline: "This was my quick website I created using CodeIgniter: PHP/HTML/CSS/Bootstrap/ Javascript"
+
+      - title: Machine-Learning
+        link: "https://github.com/Jonathan-Roddy/Machine-Learning"
+        tagline: "Here is some samples that I have been developing to learning the basic fundamental concepts of machine learning."
+
+      - title: Python
+        link: "https://github.com/Jonathan-Roddy/Python"
+        tagline: "The basic's of python programming"
+
+      - title: JSON
+        link: "https://github.com/Jonathan-Roddy/JSON"
+        tagline: "Learning the basic of json"
+
+      - title: YAML
+        link: "https://github.com/Jonathan-Roddy/YAML"
+        tagline: "Learning the basic of yaml/yml"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++ & CSharp
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 60%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: HTML5, CSS & Bootstrap
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
+
+      - name: Python
+        level: 70%
+
+      - name: JSON & Yaml
+        level: 80%
 
 footer:
