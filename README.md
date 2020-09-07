@@ -1,3 +1,3 @@
-# Jonathan-Roddy.github.io
-This is my GitHub Webstip
-Please visit https://Jonathan-Roddy.github.io/online-cv/ 
+# Online CV
+This is my GitHub Website \
+Please visit https://Jonathan-Roddy.github.io
